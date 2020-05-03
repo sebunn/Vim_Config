@@ -2,6 +2,9 @@
 My Vim Configuration
 
 Custom _vimrc:
+
+
+
 -uses j-k key chord sequence to replace <esc> for normal mode
   
 -Ctrl-V in normal mode pastes from Windows clipboard
